@@ -1,1 +1,1 @@
-Article for this repository is located here https://www.linkedin.com/posts/michael-kocian_i-wrote-an-article-about-implementing-a-dependency-activity-7215355074397564928-9lHj?utm_source=share&utm_medium=member_desktop
+Article for this repository is located  [here](https://www.linkedin.com/pulse/use-dependencyinjection-mauiandroid-michael-koci%C3%A1n-qojle/?trackingId=F1vkLvANTH%2BBikGFq8gauA%3D%3D)
